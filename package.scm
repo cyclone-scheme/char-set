@@ -8,7 +8,7 @@
   (tags "data-structures")
   (docs "https://github.com/cyclone-scheme/cyclone-winds/wiki/char-set")
   (test "test.scm")
-  (dependencies iset)
+  (dependencies (iset))
   (test-dependencies ())
   (foreign-dependencies ())
   (library
