@@ -15,8 +15,17 @@
     (name (cyclone char-set))
     (description "Main wrapper"))
   (library
+    (name (cyclone char-set ascii))
+    (description "ASCII code"))
+  (library
     (name (cyclone char-set base))
     (description "Base code"))
   (library
+    (name (cyclone char-set boundary))
+    (description "Boundary code"))
+  (library
     (name (cyclone char-set extras))
-    (description "Extra code")))
+    (description "Extra code"))
+  (library
+    (name (cyclone char-set full))
+    (description "Full code")))
