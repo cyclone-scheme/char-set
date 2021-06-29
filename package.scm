@@ -1,6 +1,6 @@
 (package
  (name char-set)
- (version 0.2)
+ (version "0.3.0")
  (license "BSD")
  (authors "Alex Shinn")
  (maintainers "Arthur Maciel")
