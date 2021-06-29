@@ -221,7 +221,7 @@ Alex Shinn
 Arthur Maciel
 
 ## Version 
-0.2
+"0.2.0"
 
 ## License 
 BSD
